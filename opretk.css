@@ -22,7 +22,6 @@ h2{
     margin:0;
 }
 
-
 .baggrundsbillede{
     background-image: url("Billeder/baggrundsbillede.png");
     -webkit-background-size: cover;
@@ -32,65 +31,11 @@ h2{
     background-attachment: fixed;
     height: 100%;
     filter: blur(2px);
-
 }
-
-.Boks1{
-    position: fixed;
-    top: 50%;
-    left: 25%;
-    transform: translate(-50%,-50%);
-    z-index: 5;
-    width: 350px;
-    padding: 40px 0;
-    text-align: center;
-    border-top-left-radius: 70px;
-    border-bottom-right-radius: 70px;
-    background-color: rgba(0,0,0,0.3);
-    color: #fff;
-    font-weight: bold;
-    border: 10px inset #ffff;
-}
-
-.Boks2{
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    z-index: 5;
-    width: 350px;
-    padding: 40px 0;
-    text-align: center;
-    border-top-left-radius: 70px;
-    border-bottom-right-radius: 70px;
-    background-color: rgba(0,0,0,0.3);
-    color: #fff;
-    font-weight: bold;
-    border: 10px inset #ffff;
-}
-
-.Boks3{
-    position: fixed;
-    top: 50%;
-    left: 75%;
-    transform: translate(-50%,-50%);
-    z-index: 5;
-    width: 350px;
-    padding: 40px 0;
-    text-align: center;
-    border-top-left-radius: 70px;
-    border-bottom-right-radius: 70px;
-    background-color: rgba(0,0,0,0.3);
-    color: #fff;
-    font-weight: bold;
-    border: 10px inset #ffff;
-}
-
 
 .baggrundstext p{
     padding: 0 8%;
     font-family: marienda;
-
 }
 
 b{
@@ -106,8 +51,8 @@ b{
 .Titel{
     text-align: center;
     position: absolute;
-    top: 20%;
-    bottom: 80%;
+    top: 0%;
+    bottom: 100%;
     width: 100%;
     color: #fff;
     font-weight: bold;
@@ -250,3 +195,32 @@ b{
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: transparent;}
+
+.cprtext{
+
+}
+
+.starttext{
+
+}
+
+.varighedtext{
+
+
+}
+notattext{
+
+
+}
+
+.starttidspunkt{
+
+}
+
+.varighed{
+
+}
+
+.notat{
+
+}
