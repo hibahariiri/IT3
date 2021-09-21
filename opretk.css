@@ -197,9 +197,11 @@ b{
 .dropdown:hover .dropbtn {background-color: transparent;}
 
 .cprtext{
+    width: 400px;
+    height: 400px;
+    margin-bottom: 400px;
 
 }
-
 .starttext{
 
 }
@@ -222,5 +224,11 @@ notattext{
 }
 
 .notat{
+
+}
+
+.gem{
+   let mySpecialPopup Popup.register
+title:'hi'
 
 }
